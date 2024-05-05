@@ -1,0 +1,46 @@
+{
+    "ok": false,
+    "vulnerabilities": [
+        {
+            "title": "",
+            "credit": [],
+            "description": "",
+            "moduleName": "",
+            "language": "",
+            "packageManager": "",
+            "semver": {
+              "unaffected": [],
+              "vulnerable": []
+            },
+            "identifiers": {
+              "CWE": [],
+              "CVE": []
+            },
+            "CVSSv3": "",
+            "severity": "",
+            "creationTime": "",
+            "modificationTime": "",
+            "publicationTime": "",
+            "disclosureTime": "",
+            "id": "",
+            "packageName": "",
+            "from": [],
+            "upgradePath": [],
+            "version": "",
+            "name": "",
+            "isUpgradable": false,
+            "isPatchable": false
+         }
+    ],
+    "dependencyCount": 72,
+    "org": "myOrg",
+    "licensesPolicy": null,
+    "isPrivate": true,
+    "packageManager": "rubygems",
+    "summary": "2 vulnerable dependency paths",
+    "filtered": {
+      "ignore": [],
+      "patch": []
+    },
+    "uniqueCount": 1
+}
